@@ -29,7 +29,8 @@ The project uses:
 - Scikit-learn
 
 ## Dataset
-Datasets obtained from Kaggle customer review datasets.
+Datasets obtained from Kaggle customer review datasets. 
+Amazon csv file available from the Kaggle link: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
 ## Future Improvements
 - Machine learning classifiers
