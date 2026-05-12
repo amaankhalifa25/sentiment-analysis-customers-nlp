@@ -39,5 +39,33 @@ Starbucks csv file available from: https://www.kaggle.com/datasets/harshalhonde/
 - Advanced NLP preprocessing
 - Comparison between platforms
 
+# Project Workflow
+
+## 1. Data Loading and Exploration
+
+Datasets were loaded using pandas and explored using:
+- `head()`
+- `info()`
+- `describe()`
+- missing-value analysis
+
+This provided an understanding of:
+- dataset structure
+- variable types
+- missing values
+- customer rating distributions
+
+---
+
+# 2. Text Preprocessing
+
+Customer review text was cleaned before sentiment analysis by:
+- converting text to lowercase
+- removing punctuation
+- removing numerical values
+- standardising whitespace
+
+A custom Python preprocessing function using regular expressions (`re`) was applied to review text columns.
+
 ## Author
 Amaan Khalifa
