@@ -31,6 +31,7 @@ The project uses:
 ## Dataset
 Datasets obtained from Kaggle customer review datasets. 
 Amazon csv file available from the Kaggle link: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+Starbucks csv file available from: https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
 
 ## Future Improvements
 - Machine learning classifiers
